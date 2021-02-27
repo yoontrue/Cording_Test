@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yoontrue.kim.Solution&apos; to &apos;New_Id_Recommended&apos;&#x0A;- Original project: &apos;cordingtest01&apos;&#x0A;- Original element: &apos;com.yoontrue.kim.Solution&apos;&#x0A;- Renamed element: &apos;com.yoontrue.kim.New_Id_Recommended&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Solution&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yoontrue.kim{Solution.java[Solution" matchStrategy="1" name="New_Id_Recommended" qualified="false" references="true" similarDeclarations="false" stamp="1614428470972" textual="false" version="1.0"/>
+</session>

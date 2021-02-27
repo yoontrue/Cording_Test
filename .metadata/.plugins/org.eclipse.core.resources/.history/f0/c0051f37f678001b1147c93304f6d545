@@ -1,0 +1,20 @@
+package com.yoontrue;
+import java.util.*;
+
+public class Descending {
+	public static void main(String[] args) {
+		String answer = "";
+		
+		String s = "Zbcdefg";
+		String s_arr[] = s.split("");
+		
+		Arrays.sort(s_arr);
+		Collections.reverse(Arrays.asList(s_arr));
+		
+		for(int i=0;i<s_arr.length;i++){
+            answer += s_arr[i];
+        }
+		System.out.println(answer);
+	}
+
+}
